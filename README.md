@@ -1,1 +1,1 @@
-
+Aplicação React usando o Vite e aprendendo sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no projeto para adicionar tipagem estática à aplicação.
