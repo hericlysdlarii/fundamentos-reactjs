@@ -21,6 +21,10 @@ export function Post() {
 
       <div className={styles.content}>
         <p>E aí, galera!!! Este é o meu post na rede social.</p>
+        <p>
+          <a href="">#NewProject</a>
+          <a href="">#AprendendoReactjs</a>
+        </p>
       </div>
 
     </article>

@@ -19,6 +19,10 @@ export function App() {
           author="Héricls D'Larii" 
           content="Blá Blá Blá"
           />
+          <Post 
+          author="Héricls D'Larii" 
+          content="Blá Blá Blá"
+          />
         </main>
       </div>
     </div>
