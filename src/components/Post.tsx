@@ -22,10 +22,20 @@ export function Post() {
       <div className={styles.content}>
         <p>E aí, galera!!! Este é o meu post na rede social.</p>
         <p>
-          <a href="">#NewProject</a>
+          <a href="">#NewProject</a>{' '}
           <a href="">#AprendendoReactjs</a>
         </p>
       </div>
+
+      <form className={styles.commentForm}>
+        <strong>Deixe seu feedback</strong>
+
+        <textarea placeholder="Deixe um comentário"/>
+
+        <footer>
+          <button type="submit">Publicar</button>
+        </footer>
+      </form>
 
     </article>
     
