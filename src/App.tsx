@@ -17,6 +17,7 @@ const posts = [
     content:[
       {type: 'paragraph', content: 'E aí, galera!!!'},
       {type: 'paragraph', content: 'Este é o meu post na rede social.'},
+      {type: 'link', content: 'instagram.com/dlarii44'},
     ],
     publishedAt: new Date('2023-09-19 21:58:00'),
   },
@@ -24,13 +25,14 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/hericlysdlarii.png',
+      avatarUrl: 'https://github.com/mpgxc.png',
       name: 'Hériclys DLarii',
       role: 'Escravo',
     },
     content:[
       {type: 'paragraph', content: 'E aí, galera!!!'},
       {type: 'paragraph', content: 'Este é o meu post na rede social.'},
+      {type: 'link', content: 'instagram.com/dlarii44'},
     ],
     publishedAt: new Date('2023-10-20 22:00:00'),
   },
